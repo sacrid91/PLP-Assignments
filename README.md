@@ -17,10 +17,9 @@ A simple Python calculator that:
 ---------------------------------------
 Here we explore on the Data structure List, By:
    
-    Creating,appending, 
-    Insertion, append, 
-    popping,sorting &
-    splicing 
+    Creating, Insertion,
+    append, popping,
+    sorting & splicing 
     my_list variable
     
      
