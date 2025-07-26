@@ -16,7 +16,12 @@ A simple Python calculator that:
 2.W2 Assignment contains => ass2List.py
 ---------------------------------------
 Here we explore on the Data structure List By:
-    Creating, appending, Insertion, append, popping,sorting,splicing my_list variable
+   
+    Creating,appending, 
+    Insertion, append, 
+    popping,sorting &
+    splicing 
+    my_list variable
     
      
     
