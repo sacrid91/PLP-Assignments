@@ -1,6 +1,6 @@
 This is an Index of how to navigate PLP-Assignments repo
 
-Think of it as an index for my files within github
+Think of it as an index for my files within this specific github repo
 
 ---------------------------------------
 1.W1 Assignment contains => ass1Calc.py
@@ -15,7 +15,7 @@ A simple Python calculator that:
 ---------------------------------------     
 2.W2 Assignment contains => ass2List.py
 ---------------------------------------
-Here we explore on the Data structure List By:
+Here we explore on the Data structure List, By:
    
     Creating,appending, 
     Insertion, append, 
