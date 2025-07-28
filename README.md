@@ -21,8 +21,34 @@ Here we explore on the Data structure List, By:
     append, popping,
     sorting & splicing 
     my_list variable
-    
+
+---------------------------------------     
+3.W3 Assignment contains => ass3Discount.py    
+---------------------------------------
+Here we explore on the Arithmetic calculations, By:    
      
+    getting the price of item,
+    getting the discount,
+    if discount% meets the condition the discount is applied
+    else the price of item is returned
     
- 
+---------------------------------------     
+3.W3 Assignment contains => ass3Discount.py    
+---------------------------------------
+Here we explore on the Arithmetic calculations, By:    
+     
+    getting the price of item,
+    getting the discount,
+    if discount% meets the condition the discount is applied
+    else the price of item is returned
+    
+---------------------------------------     
+4.W3 Assignment contains => fileHandler.py , input.txt , output.txt    
+---------------------------------------
+Here we explore on the file Handling, By:    
+     
+    the fileHandler.py does read and Write to the .txt files
+    it also handles the errors if the given files are non existant or permission denied
+
+
 
