@@ -33,12 +33,21 @@ Here we explore on the Arithmetic calculations, By:
     else the price of item is returned
     
 ---------------------------------------     
-4.W3 Assignment contains => fileHandler.py , input.txt , output.txt    
+4.W4 Assignment contains => fileHandler.py , input.txt , output.txt    
 ---------------------------------------
 Here we explore on the file Handling, By:    
      
     the fileHandler.py does read and Write to the .txt files
     it also handles the errors if the given files are non existant or permission denied
 
+---------------------------------------     
+5.W5 Assignment contains => ass5OOP.py , activity2.py    
+---------------------------------------
+Here we explore on the OOP(Object Oriented Programming), By:    
+     
+    the ass5OOP.py does base class superhero and its derived classes batman(),superman() inherits attributes
+    it also handles polymorphism and encapsulation concepts and Abstraction of OOP 
+
+    the activity2.py is focused strictly on Polymorphism concept. 
 
 
